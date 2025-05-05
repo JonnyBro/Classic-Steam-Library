@@ -1,8 +1,8 @@
 /*===========
-==Root Vars== 
+==Root Vars==
 ===========*/
 
-/* Important Display Changes 
+/* Important Display Changes
 Comment these out like I am doing right now if you miss this stuff */
 
 /* Pinned Friends */
@@ -29,7 +29,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 /*===========
-==Scrollbar== 
+==Scrollbar==
 ===========*/
 
 ::-webkit-scrollbar-thumb {
@@ -102,7 +102,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 /*==========
-===Layout=== 
+===Layout===
 ==========*/
 
 /* Frame */
@@ -230,7 +230,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 .tabSearchTransitionGroup::before {
-    content: "Search Friends";
+    content: "Поиск по друзьям";
     text-transform: none;
     font-style: oblique;
     color: var(--label2-master);
@@ -479,7 +479,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 .addFriendButton::before {
-    content: "+ Add a Friend...";
+    content: "+ Добавить друга...";
     color: var(--label-master);
 	font-weight: bold;
 }
@@ -493,7 +493,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 /*==========
-==Globals=== 
+==Globals===
 ==========*/
 
 /* Global - Friend Borders */
@@ -567,7 +567,7 @@ html._14wqdluDeDnnEcg3OSLEmd .PP7LM0Ow1K5qkR8WElLpt, .PP7LM0Ow1K5qkR8WElLpt {
 }
 
 /*===============
-===Chat Window=== 
+===Chat Window===
 ===============*/
 
 /* Frame */
@@ -875,20 +875,20 @@ form._3Ule3rolhZJiBN4yNNtk1s, ._2WfNoLBdfKwyutA6ho4aSH .RVIs84dAE6wHcjH9tkinc, .
 /* nagging about compact mode */
 
 @keyframes fade {
-	
+
 	0% {
-		
+
 		opacity: 1;
-		
+
 	}
 	100% {
-		
+
 		opacity: 0;
 	}
 }
 
 .friendlist.compactView::before {
-    content: "Turn off compact mode, please.";
+    content: "Пожалуйста, отключите компактный режим.";
 	font-size: 18px;
 	font-weight: bold;
     width: 100%;

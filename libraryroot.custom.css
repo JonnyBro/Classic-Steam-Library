@@ -204,7 +204,7 @@
 }
 
 .DgVQapkBmhAW6oPY5rPZo::before {
-	content: "LINKS";
+	content: "ССЫЛКИ";
 }
 
 ._1b6LYWVijW-9E4YV0keDWZ {
@@ -229,7 +229,7 @@
 
 ._7k4qmaN8SUMvv6u-L81uk {
   padding: 4px 4px 4px 0px !important;
-  left: 0 !important; 
+  left: 0 !important;
   top: 0 !important;
 }
 
@@ -261,7 +261,7 @@
 }
 
 /* END VERTICAL NAV BAR */
-  
+
 
 /* Classic Game Page */
 
@@ -409,7 +409,7 @@
 	background: var(--playbuttoncolor) !important;
 	border: var(--playbuttonborder) !important;
 	border-radius: var(--buttonradius) !important;
-	
+
 }
 
 ._3ydigb6zZAjJ0JCDgHwSYA:hover, ._2q-gZ3XJzlvSGHSF-GvSmi:hover, ._3AjoLnMNKxYmNTGTJCLfgs._3VOR2AeYATx3qSE0I-Pm-5:hover /* Play Button Colors! (and a border) But on Hover! */ {
@@ -436,11 +436,11 @@ div._1kiZKVbDe-9Ikootk57kpA._1aKegVl9_lSdNAyWYZQlr9 > div._3m_zjRTQBqcfzCjXLXUHc
 }
 
 div._1mDAVT4sTzFRwJtlKCw2Ws > div._1kiZKVbDe-9Ikootk57kpA._1aKegVl9_lSdNAyWYZQlr9 > div._3m_zjRTQBqcfzCjXLXUHcR::before {
-	content: "YOU'VE PLAYED";
+	content: "ВЫ ИГРАЛИ";
 }
 
 .MIHa_O-B1JXrzkoGc255n::before {
-	content: "YOU'VE PLAYED";
+	content: "ВЫ ИГРАЛИ";
 }
 
 ._1YbtIWcfkQJOysLXQbwzRf {
@@ -655,7 +655,7 @@ div._14U8eM1W6Z4uJhCc5zvbKC._1j_gja8bHXjiS-BeSQk8hb > div._1s_9cSxUjb4609MSH0EjW
 }
 
 ._3i62HEXIhsNTd5-Z4uL3K._3Mds9UG-5yRsWUclIV_Y9q::before {
-	content: "Read More";
+	content: "Читать больше";
 	cursor: pointer;
 	text-decoration: underline;
 }
@@ -765,7 +765,7 @@ img.zcasgBSVIteabq-j_3g1m {
 }
 
 div._5uvIN6jXDXzzck59F-nhv > div._14U8eM1W6Z4uJhCc5zvbKC._1j_gja8bHXjiS-BeSQk8hb > div._1s_9cSxUjb4609MSH0EjWH > div._39Y01uSRcLiDg5DneTTR0m::before {
-	content: "Most Recent";
+	content: "Недавние";
 }
 
 ._1j_gja8bHXjiS-BeSQk8hb ._1s_9cSxUjb4609MSH0EjWH ._39Y01uSRcLiDg5DneTTR0m {
@@ -792,7 +792,7 @@ div._5uvIN6jXDXzzck59F-nhv > div._14U8eM1W6Z4uJhCc5zvbKC._1j_gja8bHXjiS-BeSQk8hb
 }
 
 .qGJMO0uQwngYsOvMwgGWa > div._1Q2q_tQ9_Eq8YdEHNAHS3F > div::before {
-	content: "FRIENDS";
+	content: "ДРУЗЬЯ";
 }
 
 ._39bm0CkBxBjJsnPpAzoZlv {
@@ -929,7 +929,7 @@ button.DialogButton:hover, ._1EC1xjjUGqI7fqX6PVzJA3:hover, .DialogDropDown:hover
 /* Workshop Panel */
 
 ._1W34WpqfvufNgueNdZozwC::before /* old icon and description */ {
-	content: "Create, discover, and play content created by the Steam Community. ";
+	content: "Создавайте, ищите и загружайте контент для вашей игры";
     background: url(https://i.imgur.com/KRXesxW.png);
     background-repeat: no-repeat;
     min-width: 195px;
@@ -1146,11 +1146,11 @@ img.miniprofile_Frame_2nPON /* Profile Frames */ {
 }
 
 ._2b6WkTnmJxMuX1biL7aS3C::before {
-	content: "CATEGORIES";
+	content: "КАТЕГОРИИ";
 }
 
 ._2b6WkTnmJxMuX1biL7aS3C::after {
-	content: "Set Categories...";
+	content: "Выбрать категории...";
     margin-top: 4px;
 }
 
@@ -1245,7 +1245,7 @@ input.DialogInput.DialogInputPlaceholder.DialogTextInputBase {
 }
 
 ._3AjoLnMNKxYmNTGTJCLfgs._3VOR2AeYATx3qSE0I-Pm-5._1_Bo2Ied5s2Od4YKYTOsau::after {
-	content: "PLAY";
+	content: "ИГРАТЬ";
 }
 
 ._54PuCatl_tYG836TOs4Mv ._3AjoLnMNKxYmNTGTJCLfgs:hover:not(._1aml4h4CSJbtrNbX4brUYs)::after, ._54PuCatl_tYG836TOs4Mv ._3AjoLnMNKxYmNTGTJCLfgs:hover:not(._1aml4h4CSJbtrNbX4brUYs) .SVGIcon_Play {
@@ -1355,14 +1355,14 @@ svg.-OgRzXqfwOvAWFZS3Rk_N /* Download / Install icons */ {
 }
 
 div.Bku7JSkuQ7NyWi6M4w1sl > div:nth-child(1) > span._1dHjjSl-57o1KQsQ1m1HSA._3WavcSX0NkHlBh5fICWKyB.IbePLaw-vSvhG1GTenYFg::before /* Replace Icon with text: Downloads */ {
-    content: "Downloaded ";
+    content: "Загружено ";
 	color: var(--label-master2);
     font-weight: 400;
 	text-transform: uppercase;
 }
 
 div.Bku7JSkuQ7NyWi6M4w1sl > div:nth-child(2) > span._1dHjjSl-57o1KQsQ1m1HSA._3WavcSX0NkHlBh5fICWKyB.IbePLaw-vSvhG1GTenYFg::before /* Replace Icon with text: Installing */ {
-    content: "Installed ";
+    content: "Установлено ";
 	color: var(--label-master2);
     font-weight: 400;
 	text-transform: uppercase;
@@ -1494,7 +1494,7 @@ div._3Mbhnlk1Go2j8yCdjthzc7.IbePLaw-vSvhG1GTenYFg > div > div > div > div._31Ig9
 }
 /*
 ._3tEPpl-d9-fiCX5AdJiXJL::before {
-    content: "Time Remaining ";
+    content: "Оставшееся время ";
     color: var(--label-master2);
     font-weight: 400;
 	text-decoration: none !important;
@@ -1660,9 +1660,9 @@ div.OINnOU8K5HzPe2nzczpZi.Panel > div > div > div._2pjdgFqp04LlhgtFS0rQn_ > div 
 
 .DialogDropDown._DialogInputContainer.Panel,
 .DialogDropDown_CurrentDisplay,
-._2X6Uf9dpYzWmrq3hGfefrI, 
-._3twsgFT0Ba--9DybmydSI8, 
-.hwP1MOTgigg-9XwJyhFTO, 
+._2X6Uf9dpYzWmrq3hGfefrI,
+._3twsgFT0Ba--9DybmydSI8,
+.hwP1MOTgigg-9XwJyhFTO,
 ._3g-QHB82IGz91Hsk1Hw4lh,
 ._2qm05e8tWSAb-_fAHytQCP /* Some more font mojo */ {
     line-height: 12px;
@@ -1835,7 +1835,7 @@ div.HighPerfMode ._1IX7FPSY9Jb82KhBVBSkZa {
     max-height: 1080px !important;
 }
 
-.QlR9EFwTdUNm_J5vx54_Z { 
+.QlR9EFwTdUNm_J5vx54_Z {
 
 	height: 100% !important;
 
@@ -1919,7 +1919,7 @@ img.HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
 }
 
 ._36r2az6roul_Oej7D4BMI6::before {
-    content: "SORT";
+    content: "СОРТИРОВКА";
     color: var(--label2-master);
     font-size: 12px;
     display: block;
@@ -2441,7 +2441,7 @@ div._20QAC4WMXm8qFE8waUT5oo > div._12vo5L1hsNGdao6_ssuirS > div > input {
 }
 
 ._2rjVTGz8aLvqOdz5v2gq5C::before {
-    content: "Settings";
+    content: "Настройки";
     color: white;
     text-transform: none;
     font-size: 12px;
@@ -2704,7 +2704,7 @@ button.DialogButton::before {
 ._26Gmfe09NRsnF7eprTZYdY {
     background: var(--dialogbg-master);
     border-top: 1px solid var(--buttonface-master);
-	
+
 }
 
 .C9tvuqqEXGcrkcAtHrQ_R .title-area-children {
@@ -3284,7 +3284,7 @@ span._2mZ8LlvoUiyeEUtIWuTri {
 
 /* Adjust padding properly to match old Steam UI */
 .title-bar-actions.window-controls {
-    margin-right: 2px !important; 
+    margin-right: 2px !important;
 }
 
 /* Remove background color on account ribbon in the titlebar as it historically never had one */
@@ -3492,7 +3492,7 @@ button._30Og77vH37EtqaKCCDIAP9 svg {
 
 ._3ydigb6zZAjJ0JCDgHwSYA._2AzIX5kl9k6JnxLfR5H4kX:hover svg.SVGIcon_Button.SVGIcon_Play, ._3AjoLnMNKxYmNTGTJCLfgs._3VOR2AeYATx3qSE0I-Pm-5:hover svg.SVGIcon_Button.SVGIcon_Play {
 	background-image: var(--playbuttonimghover);
-	
+
 }
 
 /* Install */

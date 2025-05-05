@@ -49,7 +49,7 @@
     ],
     "Steam-WebKit": "webkit.css",
     "UseDefaultPatches": true,
-    "author": "naii_",
+    "author": "naii_ & Jonny_Bro",
     "description": "Brings Steam's 2013 & 2015 looks to the modern day",
     "discord_support": {
         "inviteCodeExcludingLink": "9VAEuGT"
@@ -58,12 +58,12 @@
         "kofi": "naii_"
     },
     "github": {
-        "owner": "eyedine2",
+        "owner": "JonnyBro",
         "repo_name": "Classic-Steam-Library"
     },
     "header_image": "https://i.imgur.com/05lFTXw.png",
     "name": "Classic Steam Library",
-    "source": "https://github.com/eyedine2/Classic-Steam-Library/tree/main",
+    "source": "https://github.com/JonnyBro/Classic-Steam-Library/tree/main",
     "splash_image": "https://i.imgur.com/05lFTXw.png",
     "tags": [
         "Dark",
